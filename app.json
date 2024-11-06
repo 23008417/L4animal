@@ -1,6 +1,6 @@
 {
   "expo": {
-    "name": "L3app",
+    "name": "L4 animal",
     "slug": "L3app",
     "version": "1.0.0",
     "orientation": "portrait",
@@ -22,6 +22,11 @@
     },
     "web": {
       "favicon": "./assets/favicon.png"
+    },
+    "extra": {
+      "eas": {
+        "projectId": "2c5c7014-ca88-4261-83ff-047ad4fad4dd"
+      }
     }
   }
 }
